@@ -86,7 +86,7 @@
                 <source url="https://cdn.cocoapods.org/"/>
             </config>
             <pods>
-                <pod name="BraintreeDropIn" spec="8.0.0"/>
+                <pod name="BraintreeDropIn" spec="8.1.4"/>
                 <pod name="Braintree/PayPal" />
                 <pod name="Braintree/Venmo" />
                 <pod name="Braintree/Apple-Pay" />
