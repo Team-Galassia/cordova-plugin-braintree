@@ -87,7 +87,7 @@
             </config>
             <pods>
                 <pod name="BraintreeDropIn" spec="8.1.4"/>
-                <pod name="BraintreeUIKit" />
+                <pod name="BraintreeDropIn/UIKit" />
                 <pod name="Braintree/PayPal" />
                 <pod name="Braintree/Venmo" />
                 <pod name="Braintree/Apple-Pay" />
